@@ -87,7 +87,7 @@ font-family: "fuente_texto";
     /* object-position: 0 -30rem; */
 }
 #caf h2{
-    font-family: "Titulos";
+    font-family: "fuente_titulos";
     width: 52rem;
     position: relative;
     bottom: 4.4rem;
