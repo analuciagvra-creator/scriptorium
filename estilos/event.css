@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 @font-face {
-    font-family: "fuente_titulos";
-    src: url(../fonts/HedvigLettersSans-Regular.ttf);
+  font-family: "fuente_titulos";
+  src: url(../fonts/HedvigLettersSans-Regular.ttf);
 }
 @font-face {
     font-family: "fuente_texto";
