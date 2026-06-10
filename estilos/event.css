@@ -5,11 +5,11 @@
 }
 @font-face {
     font-family: "fuente_titulos";
-    src: url(../Fonts/HedvigLettersSans-Regular.ttf);
+    src: url(../fonts/HedvigLettersSans-Regular.ttf);
 }
 @font-face {
     font-family: "fuente_texto";
-    src: url(../Fonts/Helvetica\ LT\ Pro\ Roman.ttf);
+    src: url(../fonts/Helvetica\ LT\ Pro\ Roman.ttf);
 }
 body{
     display: flex;
